@@ -1,0 +1,23 @@
+PODS:
+  - Alamofire (3.1.2)
+  - AVOSCloud (3.1.6.3)
+  - AVOSCloudIM (3.1.6.3):
+    - AVOSCloud
+  - MBProgressHUD (0.9.1)
+  - RongCloudIMKit (2.3.7)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - AVOSCloud
+  - AVOSCloudIM
+  - MBProgressHUD
+  - RongCloudIMKit
+
+SPEC CHECKSUMS:
+  Alamofire: 7c16ca65f3c7e681fd925fd7f2dec7747ff96855
+  AVOSCloud: c71c27f9463e361d5224a762db9db46d8fc62c3e
+  AVOSCloudIM: 001ad0f4f3c30fab511d9ae3b0d3c5ee5ac38ee0
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  RongCloudIMKit: 352f122b3034b0927b3b2e8248debb36075a48b7
+
+COCOAPODS: 0.39.0
